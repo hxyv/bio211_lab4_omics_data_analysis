@@ -1,0 +1,26 @@
+{
+    "id": "F543B177",
+    "path": "~/BIO211_Lab4_Omics_data_analysis/Proteomics Data Analysis.R",
+    "project_path": "Proteomics Data Analysis.R",
+    "type": "r_source",
+    "hash": "3416716585",
+    "contents": "",
+    "dirty": false,
+    "created": 1669083822670.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,35",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669091067,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669091067213,
+    "read_only": false,
+    "read_only_alternatives": []
+}
